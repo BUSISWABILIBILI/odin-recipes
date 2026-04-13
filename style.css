@@ -10,7 +10,7 @@ html {
 
 body {
   font-family: "Trebuchet MS", "Arial", sans-serif;
-  background-color: linear-gradient(to right, #f4f4f4, #eaeaea);
+  background: linear-gradient(to right, #f4f4f4, #eaeaea);
   color: #333;
   line-height: 1.6;
   min-height: 100vh;
@@ -23,7 +23,7 @@ body {
 }
 
 header {
-  background-color: linear-gradient(135deg, #b22222, #8b0000);
+  background: linear-gradient(135deg, #b22222, #8b0000);
   color: white;
   text-align: center;
   padding: 50px 20px;
