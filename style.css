@@ -69,10 +69,9 @@ header p {
   background-color: white;
   padding: 20px;
   border-radius: 12px;
+  border-left: 5px solid #b22222;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .recipe-card:hover {
